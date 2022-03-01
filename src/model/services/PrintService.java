@@ -44,8 +44,27 @@ public class PrintService {
 		System.out.println(player);
 	}
 	
-	public static void printYouthPlayer(List<Jogador> list) {
+	public static void printYoungestPlayer(List<Jogador> list) {
 		System.out.println();
-		System.out.println("================YOUTHEST PLAYER==================");
+		System.out.println("================YOUGEST PLAYER==================");
+		Jogador player = list.stream().min(Comparator.comparing(Jogador::getIdade)).get();
+		System.out.println(player);
 	}
+	
+	public static void printPlayerWithMostGols(List<Jogador> list) {
+		System.out.println();
+		System.out.println("================PLAYER WITH MOST GOLS==================");
+		Jogador player = list.stream().max(Comparator.comparingInt(Jogador::getGolsMarcados)).get();
+		System.out.println(player);
+	}
+	
+	public static void printSumGols(List<Jogador> list) {
+		System.out.println();
+		System.out.println("================TOTAL GOLS==================");
+		System.out.println(PlayerService.getSumGols(list) + " GOLS");
+		int gols = list.stream().map(Jogador::getGolsMarcados).reduce(0, (x, y) -> x + y);
+		System.out.println(gols + " GOLS");
+	}
+	
+	
 }
