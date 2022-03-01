@@ -1,0 +1,40 @@
+Jogador1,Atacante,31,Sport,16
+Jogador2,Ponta,22,Corinthians,2
+Jogador3,Meio Campo,19,Flamengo,15
+Jogador4,Lateral,25,Palmeiras,20
+Jogador5,Zaguiero,17,Santos,12
+Jogador6,Atacante,28,Vasco,19
+Jogador7,Ponta,24,Cruzeiro,0
+Jogador8,Meio Campo,19,Sport,6
+Jogador9,Lateral,33,Corinthians,14
+Jogador10,Zaguiero,28,Flamengo,9
+Jogador11,Atacante,17,Palmeiras,1
+Jogador12,Ponta,27,Santos,16
+Jogador13,Meio Campo,19,Vasco,14
+Jogador14,Lateral,22,Cruzeiro,20
+Jogador15,Zaguiero,24,Sport,14
+Jogador16,Atacante,28,Corinthians,12
+Jogador17,Ponta,27,Flamengo,12
+Jogador18,Meio Campo,21,Palmeiras,20
+Jogador19,Lateral,24,Santos,17
+Jogador20,Zaguiero,25,Vasco,15
+Jogador21,Atacante,31,Cruzeiro,8
+Jogador22,Ponta,31,Sport,6
+Jogador23,Meio Campo,32,Corinthians,7
+Jogador24,Lateral,18,Flamengo,5
+Jogador25,Zaguiero,31,Palmeiras,13
+Jogador26,Atacante,26,Santos,19
+Jogador27,Ponta,26,Vasco,14
+Jogador28,Meio Campo,32,Cruzeiro,18
+Jogador29,Lateral,28,Sport,8
+Jogador30,Zaguiero,31,Corinthians,10
+Jogador31,Atacante,25,Flamengo,14
+Jogador32,Ponta,31,Palmeiras,16
+Jogador33,Meio Campo,31,Santos,12
+Jogador34,Lateral,18,Vasco,19
+Jogador35,Zaguiero,34,Cruzeiro,20
+Jogador36,Atacante,17,Sport,20
+Jogador37,Ponta,19,Corinthians,19
+Jogador38,Meio Campo,34,Flamengo,17
+Jogador39,Lateral,18,Palmeiras,9
+Jogador40,Zaguiero,22,Santos,17
